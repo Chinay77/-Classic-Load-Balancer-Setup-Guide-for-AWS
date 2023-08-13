@@ -2,21 +2,6 @@
 
 Welcome to the Classic Load Balancer Setup Guide! 🚀
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [Step-by-Step Setup](#step-by-step-setup)
-  - [Step 1: Navigating to AWS Management Console](#step-1-navigating-to-aws-management-console)
-  - [Step 2: Creating a Classic Load Balancer](#step-2-creating-a-classic-load-balancer)
-  - [Step 3: Configuring Load Balancer Settings](#step-3-configuring-load-balancer-settings)
-  - [Step 4: Defining Health Checks](#step-4-defining-health-checks)
-  - [Step 5: Adding Instances](#step-5-adding-instances)
-  - [Step 6: Review and Launch](#step-6-review-and-launch)
-- [Understanding Classic Load Balancer's Role](#understanding-classic-load-balancers-role)
-- [Classic Load Balancer vs. Other Load Balancers](#classic-load-balancer-vs-other-load-balancers)
-- [Conclusion](#conclusion)
-
 ## Introduction
 
 Load balancing is a fundamental concept in cloud computing that allows you to distribute incoming traffic across multiple instances, ensuring optimal resource utilization and high availability. The Classic Load Balancer (CLB) is a foundational component of AWS's load balancing solutions, offering simplicity and reliability.
@@ -60,7 +45,9 @@ Log in to your AWS account and access the AWS Management Console.
 
 ![image](https://github.com/Chinay77/-Classic-Load-Balancer-Setup-Guide-for-AWS/assets/105514247/36a9db88-ec32-4346-bcfb-8260a45cb31f)
 
-
+2. Copy the DNS link of the load balancer and check it up on browser.
+3. Refresh to see the port changing time to time.
+   
 ![image](https://github.com/Chinay77/-Classic-Load-Balancer-Setup-Guide-for-AWS/assets/105514247/a5c388a7-2869-4a39-8e0e-0c585731e3e2)
 
 
